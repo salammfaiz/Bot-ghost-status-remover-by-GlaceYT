@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["/play | .gg/discordians","/help | .gg/discordians"];
 
 
 let currentIndex = 0;
